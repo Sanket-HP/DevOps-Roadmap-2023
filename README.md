@@ -327,9 +327,4 @@ If you think the roadmap can be improved, please open a PR with any updates and 
 - Email:- sp3130016@gmail.com
 - Phone No.:- sp3130016@gmail.com
 
-## Authors
-
-- [Dr. Milan Milanović](https://milan.milanovic.org) -  CTO at [3MD](https://3mdinc.com).
-- [Romano Roth](https://romanoroth.com) - Chief of DevOps at [Zühlke](https://www.zuehlke.com/en).
-
 - Copy write 2023 Sanket Sarjerao More-Patil
